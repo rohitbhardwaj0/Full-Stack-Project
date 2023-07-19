@@ -68,6 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+
+Full Stack Web Development Training HighRadius, Bhubaneshwar, Odisha
+- Developed an AI-Enabled Fin-Tech B2B Invoice Management App. May 2023 - June 2023
+- Developed Full Stack Web Application using Machine Learning to predict customer order amounts in upcoming
+days.
+- Utilized technologies such as React, Java, SQL, JavaScript and other relevant tools, and enhanced app functionality
+through DBMS integration and API utilization.
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Full-Stack-Project
