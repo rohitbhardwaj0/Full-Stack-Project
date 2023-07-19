@@ -1,0 +1,49 @@
+@charset "UTF-8";
+#table1 { 
+  border-collapse: collapse; 
+  width: 100%; 
+} 
+
+#table1 th, 
+#table1 td { 
+  text-align: left; 
+  padding: 8px; 
+  border: 2px solid #000000; /* Add border property */ 
+} 
+
+#table1 th { 
+  background-color: #f2f2f2; 
+} 
+
+#table1 tr:nth-child(odd) { 
+  background-color: #f9f9f9; 
+} 
+
+#table1 tr:nth-child(even) { 
+  background-color: #ddd; 
+} 
+
+#table1 th { 
+  background-color: lightgreen; 
+} 
+
+#table2 { 
+  border-collapse: collapse; 
+  width: 100%; 
+} 
+
+#table2 th, 
+#table2 td { 
+  text-align: left; 
+  padding: 8px; 
+  border: 2px solid #000000; /* Add border property */ 
+} 
+
+#table2 tr.id1 { 
+  background-color: lightblue; 
+} 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
